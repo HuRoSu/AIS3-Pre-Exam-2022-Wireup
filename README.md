@@ -1,6 +1,6 @@
 ﻿算是第一次參加AIS3 這次解出8題 不含Welcome
 
-![](Aspose.Words.9b38d774-4e64-4a6f-9dc5-97260abb79ed.001.png)
+![](Pictures/1.png)
 
 Crypto題型
 
